@@ -1,0 +1,13 @@
+{
+  "name": "distributed-sorting-algorithms",
+  "version": "0.0.1",
+  "desciption": "Distributed sorting algorithms",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+	  "mongoose": "latest",
+    "method-override": "latest",
+    "body-parser": "latest"
+  }
+}
